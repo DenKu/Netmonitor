@@ -1,0 +1,6 @@
+ID;IP-Address;Name;Description
+0;192.168.2.1;Gateway;Local Gateway
+1;9.9.9.9;Quad9 Primary DNS;Quad9 Primary DNS
+2;149.112.112.112;Quad9 Secondary DNS;Quad9 Secondary DNS
+3;1.1.1.1;Cloudflare Primary DNS;Primary Cloudflare Primary DNS
+4;1.0.0.1;Cloudflare Secondary DNS;Secondary Cloudflare Secondary DNS

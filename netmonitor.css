@@ -1,0 +1,40 @@
+body {
+	background-color: #DCFFDC;
+}
+
+.headline {
+	color: #10A010;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	width: 33%;
+	display: inline-block;
+	font-size: 160%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.publicIP {
+	width: 33%;
+	text-align: left;
+	display: inline-block;
+	color: #10A010;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.hostsummary {
+	text-align: center;
+}
+
+.indicator {
+	height: 12px;
+	width: 12px;
+	display: inline-block;
+	margin-left: 8px;
+}
+
+.hostname {
+	display: inline-block;
+	color: #10A010;
+	font-size: 120%;
+	margin-top: 30px;
+	width: fit-content;
+}
